@@ -21,7 +21,7 @@ function App() {
         <Route path="/cssdomino" element={<CssDomino />} />
         <Route path="/experimento-iniciar-seccion" element={<ExpeIniciarS />} />
         <Route path="/experimento-registrate" element={<ExpeRegistrate />} />
-        <Route exact path="*" element={<NotFound />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </BrowserRouter>
