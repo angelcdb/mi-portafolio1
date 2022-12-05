@@ -73,7 +73,7 @@ background-image: url(../assets/Imagenes/galaxia.png);
     font-size: 16px;
     margin: 5px;
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .login__container--register a:hover {
     text-decoration: underline;

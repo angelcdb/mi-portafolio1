@@ -5,7 +5,6 @@ import "../styles/home.css";
 import { Tecnologias } from "./Tecnologias";
 import { Habilidades } from "./Habilidades";
 
-
 import Batatabit from "../assets/Imagenes/batataBIT.png";
 import IniciarS from "../assets/Imagenes/Expe-Iniciar-sesion.png";
 import figuras from "../assets/Imagenes/figueras-ge.jpg";
@@ -30,8 +29,7 @@ const Home = () => {
 
       <section className="containers">
         <section className="container-left">
-          <a href="https://angelcdb.github.io/curso-practico-javascript-platzi/">
-            {/* <p>target="_blank"</p> */}
+          <a href="https://angelcdb.github.io/curso-practico-javascript-platzi/" rel="noreferrer noopener" target="_blank">
             <div className="container-card">
               <h4>Calcula</h4>
               <div className="info">
@@ -45,8 +43,7 @@ const Home = () => {
             </div>
           </a>
 
-          <a
-            href="https://angelcdb.github.io/curso-practico-javascript-platzi/figuras8.html">
+          <a href="https://angelcdb.github.io/curso-practico-javascript-platzi/figuras8.html" rel="noreferrer noopener" target="_blank">
             <div className="container-card">
               <h4>Figuras Geómetricas</h4>
               <div className="info">
@@ -59,8 +56,7 @@ const Home = () => {
             </div>
           </a>
 
-          <a
-            href="https://angelcdb.github.io/curso-patrones-react2/">
+          <a href="https://angelcdb.github.io/react-hooks/" rel="noreferrer noopener" target="_blank">
             <div className="container-card">
               <h4>API: Rick & Morty</h4>
               <div className="info">
@@ -73,8 +69,7 @@ const Home = () => {
             </div>
           </a>
 
-          <a
-            href="https://angelcdb.github.io/curso-patrones-react2/">
+          <a href="https://angelcdb.github.io/curso-patrones-react2/" rel="noreferrer noopener" target="_blank">
             <div className="container-card">
               <h4>TODOs</h4>
               <div className="info">
@@ -102,13 +97,7 @@ const Home = () => {
               <p className="carrusel-item__details-title">BatataBIT</p>
 
               <button className="carrusel-item__details-subtitle" type="button">
-                <a href="https://angelcdb.github.io/batataBIT/">
-                  Ver
-                </a>
-
-                {/* <Link>
-                <a href="https://angelcdb.github.io/batataBIT/">aqui</a>
-                </Link> */}
+                <a href="https://angelcdb.github.io/batataBIT/" rel="noreferrer noopener" target="_blank">Ver</a>
               </button>
             </div>
           </div>
@@ -122,7 +111,7 @@ const Home = () => {
                   className="carrusel-item__details-subtitle"
                   type="button"
                 >
-                  <a href="">Ver</a>
+                  <a href="/">Ver</a>
                 </button>
               </Link>
             </div>
@@ -132,17 +121,23 @@ const Home = () => {
             <img src={figuras} className="carrusel-item__img" alt="imagen" />
             <div className="carrusel-item__details">
               <p className="carrusel-item__details-title">Css Grid</p>
-              {/* <Link to="/cssgrid"> */}
-              <button className="carrusel-item__details-subtitle" type="button">
-                <a href="/cssgrid">Ver1</a>
-              </button>
-              {/* </Link> */}
+              <Link to="/cssgrid">
+                <button
+                  className="carrusel-item__details-subtitle"
+                  type="button"
+                >
+                  <a href="/">Ver</a>
+                </button>
+              </Link>
 
-              {/* <Link to="/cssdomino"> */}
-              <button className="carrusel-item__details-subtitle" type="button">
-                <a href="/cssdomino">Ver2</a>
-              </button>
-              {/* </Link> */}
+              <Link to="/cssdomino">
+                <button
+                  className="carrusel-item__details-subtitle"
+                  type="button"
+                >
+                  <a href="/">Ver</a>
+                </button>
+              </Link>
             </div>
           </div>
 
@@ -151,9 +146,7 @@ const Home = () => {
             <div className="carrusel-item__details">
               <p className="carrusel-item__details-title">Pastas Italianas</p>
               <button className="carrusel-item__details-subtitle" type="button">
-                <a href="https://angelcdb.github.io/food/">
-                  Ver
-                </a>
+                <a href="https://angelcdb.github.io/food/" rel="noreferrer noopener" target="_blank">Ver</a>
               </button>
             </div>
           </div>
@@ -162,8 +155,7 @@ const Home = () => {
             <div className="carrusel-item__details">
               <p className="carrusel-item__details-title">Tienda Online</p>
               <button className="carrusel-item__details-subtitle" type="button">
-                <a
-                  href="https://angelcdb.github.io/curso-frontend-developer-prac-js/">
+                <a href="https://angelcdb.github.io/curso-frontend-developer-prac-js/" rel="noreferrer noopener" target="_blank">
                   Ver
                 </a>
               </button>
