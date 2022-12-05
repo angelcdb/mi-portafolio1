@@ -136,6 +136,7 @@ body{
   margin: 30px 10px;
   transform-origin: center left;
   position: relative;
+  /* aqui */
 }
 
 .carrusel-item:hover ~ .carrusel-item {
@@ -271,25 +272,25 @@ object-fit: cover;
     width: 12rem;
     height: 14rem;
   }
-  .carrusel-item{
+  /* .carrusel-item{
     margin-top: 40px;
     margin-left: 0;
-  }
-  /* .carrusel-item {
+  } */
+  .carrusel-item {
     width: 200px;
     height: 250px;
     border-radius: 20px;
     overflow: hidden;
     margin: 30px 10px;
-    transform-origin: center left;
+    transform-origin: center;
     position: relative;
-  } */
+  }
   .carrusel__container:hover .carrusel-item:hover {
-    -webkit-transform: scale(1.2);
-            transform: scale(1.2);
-    opacity: 0.5;
-    width: 170px;
-    height: 220px;
+    /* -webkit-transform: scale(1.2);
+            transform: scale(1.2); */
+    /* opacity: 0.5; */
+    width: 150px;
+    height: 200px;
     }
   .h2-descripcion{
     font-size: 1.8rem;
