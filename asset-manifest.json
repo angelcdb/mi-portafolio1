@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mi-portafolio1/static/css/main.fc36af60.css",
+    "main.css": "/mi-portafolio1/static/css/main.d308bcc7.css",
     "main.js": "/mi-portafolio1/static/js/main.d3d22107.js",
     "static/media/Expe-Iniciar-sesion.png": "/mi-portafolio1/static/media/Expe-Iniciar-sesion.27a64217620f2e2f7c65.png",
     "static/media/galaxia.png": "/mi-portafolio1/static/media/galaxia.9ecdde6747302d6fa598.png",
@@ -10,11 +10,11 @@
     "static/media/logo1.jpg": "/mi-portafolio1/static/media/logo1.008b7c8d18e46c8808ed.jpg",
     "static/media/figueras-ge.jpg": "/mi-portafolio1/static/media/figueras-ge.7ea60cf147dc4d54cadf.jpg",
     "index.html": "/mi-portafolio1/index.html",
-    "main.fc36af60.css.map": "/mi-portafolio1/static/css/main.fc36af60.css.map",
+    "main.d308bcc7.css.map": "/mi-portafolio1/static/css/main.d308bcc7.css.map",
     "main.d3d22107.js.map": "/mi-portafolio1/static/js/main.d3d22107.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc36af60.css",
+    "static/css/main.d308bcc7.css",
     "static/js/main.d3d22107.js"
   ]
 }
