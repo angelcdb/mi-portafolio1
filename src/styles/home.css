@@ -272,25 +272,23 @@ object-fit: cover;
     width: 12rem;
     height: 14rem;
   }
-  /* .carrusel-item{
-    margin-top: 40px;
-    margin-left: 0;
-  } */
   .carrusel-item {
+    display: block;
     width: 200px;
     height: 250px;
     border-radius: 20px;
-    overflow: hidden;
-    margin: 30px 10px;
-    transform-origin: center;
+    /* overflow: hidden; */
+    margin: 30px 30px;
+    transform-origin: none;
     position: relative;
   }
   .carrusel__container:hover .carrusel-item:hover {
-    /* -webkit-transform: scale(1.2);
-            transform: scale(1.2); */
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
+    margin: 30px 50px;
     /* opacity: 0.5; */
-    width: 150px;
-    height: 200px;
+    /* width: 170px;
+    height: 220px; */
     }
   .h2-descripcion{
     font-size: 1.8rem;
