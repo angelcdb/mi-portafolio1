@@ -239,6 +239,12 @@ object-fit: cover;
   margin-left: 1.5rem;
   margin-top: 0.2rem;
 }
+.ul li .bootstrap{
+  width: 2.8rem;
+  height: 2.2rem;
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
 .ul li p{
   display: flex;
   justify-content: center;

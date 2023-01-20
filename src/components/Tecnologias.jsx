@@ -3,6 +3,7 @@ import React from "react";
 import html from "../assets/icons/html.png";
 import css from "../assets/icons/css.png";
 import sass from "../assets/icons/sass.png";
+import bootstrap from "../assets/icons/Bootstrap_logo.svg.png";
 import js from "../assets/icons/javaScript.png";
 import react from "../assets/icons/react.png";
 import git from "../assets/icons/git.png";
@@ -24,6 +25,10 @@ const Tecnologias = () => {
         <li>
           <p>SASS</p>
           <img src={sass} alt="icono" />
+        </li>
+        <li>
+          <p>BOOTSTRAP</p>
+          <img src={bootstrap} className="bootstrap" alt="icono" />
         </li>
         <li>
           <p>JAVASCRIPT</p>
