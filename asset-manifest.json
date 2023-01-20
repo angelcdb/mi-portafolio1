@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/mi-portafolio1/static/css/main.d308bcc7.css",
-    "main.js": "/mi-portafolio1/static/js/main.039946b1.js",
+    "main.css": "/mi-portafolio1/static/css/main.3edc1238.css",
+    "main.js": "/mi-portafolio1/static/js/main.a54a42e8.js",
     "static/media/Expe-Iniciar-sesion.png": "/mi-portafolio1/static/media/Expe-Iniciar-sesion.27a64217620f2e2f7c65.png",
     "static/media/galaxia.png": "/mi-portafolio1/static/media/galaxia.9ecdde6747302d6fa598.png",
     "static/media/yardSale.png": "/mi-portafolio1/static/media/yardSale.d0f26144b06fab89c09e.png",
     "static/media/batataBIT.png": "/mi-portafolio1/static/media/batataBIT.6dfb3dffaa3679433dd9.png",
+    "static/media/Bootstrap_logo.svg.png": "/mi-portafolio1/static/media/Bootstrap_logo.svg.430491e6a02f91bf55d6.png",
     "static/media/pasta.jpg": "/mi-portafolio1/static/media/pasta.6b66779f72cb088309c3.jpg",
     "static/media/logo1.jpg": "/mi-portafolio1/static/media/logo1.008b7c8d18e46c8808ed.jpg",
     "static/media/figueras-ge.jpg": "/mi-portafolio1/static/media/figueras-ge.7ea60cf147dc4d54cadf.jpg",
     "index.html": "/mi-portafolio1/index.html",
-    "main.d308bcc7.css.map": "/mi-portafolio1/static/css/main.d308bcc7.css.map",
-    "main.039946b1.js.map": "/mi-portafolio1/static/js/main.039946b1.js.map"
+    "main.3edc1238.css.map": "/mi-portafolio1/static/css/main.3edc1238.css.map",
+    "main.a54a42e8.js.map": "/mi-portafolio1/static/js/main.a54a42e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.d308bcc7.css",
-    "static/js/main.039946b1.js"
+    "static/css/main.3edc1238.css",
+    "static/js/main.a54a42e8.js"
   ]
 }
