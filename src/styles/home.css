@@ -25,11 +25,18 @@ body {
   font-size: 1.8rem;
 }
 .foto {
-  display: flex;
-  justify-content: flex-end;
-  margin-right: 20px;
-  /* margin-top: -0.8rem; */
   margin-top: 1rem;
+  margin-right: 20px;
+}
+.foto a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  margin-top: 5px;
+}
+.foto button {
+  color: #1a6478;
+  cursor: pointer;
 }
 .foto__Perfil {
   width: 15rem;
@@ -283,6 +290,9 @@ body {
     margin-top: 1rem;
     font-size: 1.2rem;
   }
+  /* .foto a {
+    
+  } */
   .foto__Perfil {
     width: 11rem;
     height: 11rem;

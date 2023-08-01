@@ -6,10 +6,10 @@ const Habilidades = () => {
       <h2 className="pp__h2">Habilidades Blandas:</h2>
       <ul>
         <li>Trabajar en Equipo</li>
-        <li>Autodidacta</li>
         <li>Buena Comunicación</li>
-        <li>Actitud Positiva</li>
         <li>Responsabilidad</li>
+        <li>Actitud Positiva</li>
+        <li>Autodidacta</li>
       </ul>
     </div>
   );

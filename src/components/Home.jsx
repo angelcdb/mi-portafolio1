@@ -23,6 +23,11 @@ const Home = () => {
         </div>
         <div className="foto">
           <img src={FotoPerfil} className="foto__Perfil" alt="foto" />
+          <a href="https://angelcdb.github.io/cv-real-dev/src/index.html">
+            <button type="button" className="buttoncv">
+              C.V
+            </button>
+          </a>
         </div>
       </div>
 
