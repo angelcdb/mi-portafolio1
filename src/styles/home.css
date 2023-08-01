@@ -39,9 +39,9 @@ body {
 .descripcion {
   display: flex;
   justify-content: center;
-  margin: 2rem 0.5rem;
+  margin: 2rem 0.9rem;
   padding: 0.3rem;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 .pp {
   display: flex;
@@ -280,13 +280,12 @@ body {
     margin: 1.5rem 0.9rem 0;
   }
   .sub__title {
-    /* margin-left: 0.1rem; */
     margin-top: 1rem;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
   .foto__Perfil {
-    width: 9rem;
-    height: 9rem;
+    width: 11rem;
+    height: 11rem;
     margin-right: 5px;
   }
   .container__card {
