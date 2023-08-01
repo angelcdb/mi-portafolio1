@@ -11,8 +11,8 @@ import github from "../assets/icons/github.png";
 
 const Tecnologias = () => {
   return (
-    <section className="herramientas">
-      <h2 className="h2-herramientas">Tecnologías:</h2>
+    <section className="tecnologias">
+      <h2 className="h2__tecnologias">Tecnologías:</h2>
       <ul className="ul">
         <li>
           <p>HTML</p>

@@ -2,8 +2,8 @@ import React from "react";
 
 const Habilidades = () => {
   return (
-    <div className="descripcion">
-      <h2 className="h2-descripcion">Habilidades Blandas:</h2>
+    <div className="pp">
+      <h2 className="pp__h2">Habilidades Blandas:</h2>
       <ul>
         <li>Trabajar en Equipo</li>
         <li>Autodidacta</li>
