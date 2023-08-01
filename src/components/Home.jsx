@@ -5,13 +5,13 @@ import "../styles/home.css";
 import { Tecnologias } from "./Tecnologias";
 import { Habilidades } from "./Habilidades";
 
-import FotoPerfil from "../assets/Imagenes/fotoPerfil.jpg";
+import FotoPerfil from "../assets/Imagenes/fotoPerfil.png";
 import Batatabit from "../assets/Imagenes/batataBIT.png";
 import IniciarS from "../assets/Imagenes/Expe-Iniciar-sesion.png";
 import figuras from "../assets/Imagenes/figueras-ge.jpg";
 import pasta from "../assets/Imagenes/pasta.jpg";
 import yardSale from "../assets/Imagenes/yardSale.png";
-import { NotFound } from "./NotFound";
+// import { NotFound } from "./NotFound";
 
 const Home = () => {
   return (
