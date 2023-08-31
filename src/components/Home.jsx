@@ -35,8 +35,8 @@ const Home = () => {
         Me especializo en diseñar sitios web, atractivos, efectivos y
         funcionales. Tengo experiencia como desarrollador de software mas de 2
         años, en diseño práctico, desarrollo web y amante de las buenas
-        prácticas. Así como también me encuentro constantemente aprendiendo
-        sobre nuevas tecnologías y herramientas.
+        prácticas. Me gusta aprender constantemente sobre nuevas tecnologías y
+        herramientas donde pueda implementarlas en mi día a día.
       </p>
       <div className="pp">
         <h2 className="pp__h2">Mis Proyectos:</h2>

@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/header.css";
 
-import img1 from "../assets/Mi-Logos/logo1.jpg";
+import img1 from "../assets/Mi-Logos/logo.jpg";
 import { Link } from "react-router-dom";
 
 const Header = () => {
